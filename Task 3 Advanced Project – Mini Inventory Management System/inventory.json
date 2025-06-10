@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Pen",
+        "id": "P101",
+        "quantity": 40,
+        "price": 10.0,
+        "category": "stationary"
+    },
+    {
+        "name": "notebook",
+        "id": "N201",
+        "quantity": 30,
+        "price": 30.0,
+        "category": "Stationay"
+    },
+    {
+        "name": "Brush",
+        "id": "b103",
+        "quantity": 60,
+        "price": 20.0,
+        "category": "Dailyneeds"
+    }
+]
